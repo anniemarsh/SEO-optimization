@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* apply styles to <header> */
+/* removed the . because updated the header from a class to a <header> tag */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -25,6 +25,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* reordered header styles & consolidated what I could */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -59,7 +60,7 @@ p {
 }
 /* Hero Style End */
 
-/* contents starts */
+/* contents starts - consolidated the content class*/
 .contents {
     width: 75%;
     display: inline-block;
@@ -94,7 +95,7 @@ h2 {
     margin-left: 25px;
 }
 
-/* benefits starts */
+/* benefits starts- consolidated the benefit class */
 .benefits {
     margin-right: 20px;
     padding: 20px;
