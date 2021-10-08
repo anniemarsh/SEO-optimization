@@ -8,4 +8,4 @@ The **Horiseon** website is used to explain what they do as an agency. It has be
 ![Horseon Website](https://github.com/anniemarsh/SEO-optimization/blob/main/assets/images/horiseon.png)
 
 ### Link
-[SEO-Optimization](https://anniemarsh.github.io/SEO-optimization/)
+<a href="https://anniemarsh.github.io/SEO-optimization/" target="_blank">SEO-Optimization</a>
